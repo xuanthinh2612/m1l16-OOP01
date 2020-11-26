@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create Date Class</title>
+</head>
+<body>
+
+</body>
+<script>
+    function myDate(day, month, year) {
+        this.day = day;
+        this.month = month;
+        this.year = year;
+        this.setDay = function (day) {
+            this.day = day;
+        }
+        this.setMonth = function (month) {
+            this.month = month;
+        }
+        this.setYear = function (year) {
+            this.year = year;
+        }
+        this.getDay = function () {
+            return this.day;
+        }
+        this.getMonth = function () {
+            return this.month;
+        }
+        this.getYear = function () {
+            return this.year;
+        }
+
+    }
+
+    let myday = new myDate(26, 11, 2020);
+
+    document.write(myday.day + '/' + myday.month + '/' + myday.year + '<br>');
+
+    let day = myday.getDay();
+    let month = myday.getMonth();
+    let year = myday.getYear();
+
+    document.write(day + '/' + month + '/' + year + '<br>');
+
+    myday.setDay(1)
+    myday.setMonth(2)
+    myday.setYear(2021)
+
+    document.write(myday.day + '/' + myday.month + '/' + myday.year + '<br>');
+
+    document.write(myday.getDay() + '/' + myday.getMonth() + '/' + myday.getYear());
+</script>
+</html>
