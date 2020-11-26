@@ -12,10 +12,10 @@
         this.width = width;
         this.height = height;
         this.area = function () {
-            return this.width * this.height;
+            return width * height;
         }
         this.perimeter = function () {
-            return 2 * (this.width * this.height);
+            return 2 * width * height;
         }
         this.draw = function () {
             let c = document.getElementById("myCanvas");
@@ -27,8 +27,8 @@
 
     let w = +prompt('Nhập vào chiều dài hình chữ nhật ')
     let h = +prompt('Nhập vào chiều rộng hình chữ nhật ')
-    let rectengle01 = new Rectangle(w, h);
-    rectengle01.draw();
-    document.write('<br>' +'Diện tích hình chữ nhật là: '+ rectengle01.area());
+    let rectangle01 = new Rectangle(w, h);
+    rectangle01.draw();
+    document.write('<br>' +'Diện tích hình chữ nhật là: '+ rectangle01.area());
 </script>
 </html>
