@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>date</title>
+</head>
+<body>
+
+</body>
+<script>
+    function Date (day,month,year) {
+        this.day = day;
+        this.month = month;
+        this.year = year;
+        this.getDay = function () {
+            return this.day;
+        }
+        this.getMonth = function () {
+            return this.month;
+        }
+        this.getYear = function () {
+            return this.year;
+        }
+        this.setDay = function (day) {
+            this.day = day ;
+        }
+        this.setMonth = function (month) {
+            this.month = month ;
+        }
+        this.setYear = function (year) {
+            this.year = year ;
+        }
+
+    }
+let myDay = new Date (27,11,2020)
+    document.write(myDay.getDay()+'/');
+    document.write(myDay.getMonth()+'/');
+    document.write(myDay.getYear() + '<br>');
+    myDay.setDay(26)
+    myDay.setMonth(12)
+    myDay.setYear(2020)
+    document.write(myDay.getDay()+'/');
+    document.write(myDay.getMonth()+'/');
+    document.write(myDay.getYear());
+</script>
+</html>

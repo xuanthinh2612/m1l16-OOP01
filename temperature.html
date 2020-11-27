@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>[Bài tập] Xây dựng lớp mô tả Temperature</title>
+</head>
+<body>
+
+</body>
+<script>
+    function Temperature (c) {
+        this.cTemperature = c;
+        this.convertToF = function () {
+            return 1.8*c+32;
+        }
+        this.convertToK = function () {
+            return c+273
+        }
+    }
+    let temperature = new Temperature(25);
+    document.write('C temperature is: '+temperature.cTemperature + '<br>');
+    document.write('Converted to F: ' + temperature.convertToF() + '<br>');
+    document.write('Converted to K: ' + temperature.convertToK() + '<br>');
+</script>
+</html>
