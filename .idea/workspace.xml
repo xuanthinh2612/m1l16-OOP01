@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8596552e-5859-49a6-be84-8172c4c47a9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/date.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivingGame/drivingGame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivingGame/drivingGame.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobiPhoneDiscribe/mobiPhoneDiscribe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobiPhoneDiscribe/mobiPhoneDiscribe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobiPhoneDiscribe/mobilePhoneDemo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -40,6 +44,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -59,7 +64,11 @@
       <workItem from="1606403960323" duration="3540000" />
       <workItem from="1606407642277" duration="552000" />
       <workItem from="1606438987342" duration="3212000" />
-      <workItem from="1606451226659" duration="943000" />
+      <workItem from="1606451226659" duration="9882000" />
+      <workItem from="1606467476588" duration="62000" />
+      <workItem from="1606481521375" duration="1435000" />
+      <workItem from="1606492738781" duration="2059000" />
+      <workItem from="1606532207952" duration="5543000" />
     </task>
     <servers />
   </component>
@@ -71,13 +80,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="447" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1606451524379" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1606481927698">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606481927698" />
     <state x="490" y="159" width="540" height="524" key="StructurePopup" timestamp="1606382328126">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="490" y="159" width="540" height="524" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1606382328126" />
-    <state x="425" y="189" key="run.anything.popup" timestamp="1606404663648">
+    <state x="425" y="189" key="run.anything.popup" timestamp="1606532548041">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606532548041" />
     <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1606404663648" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1606533439399">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606533439399" />
   </component>
 </project>
