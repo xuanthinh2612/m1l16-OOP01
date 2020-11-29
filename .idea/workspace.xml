@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8596552e-5859-49a6-be84-8172c4c47a9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/drivingGame/drivingGame.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drivingGame/drivingGame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiPhoneDiscribe/mobiPhoneDiscribe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiPhoneDiscribe/mobiPhoneDiscribe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobiPhoneDiscribe/mobilePhoneDemo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivingGame/drivingGame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/drivingGame/drivingGame.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,12 @@
       <workItem from="1606467476588" duration="62000" />
       <workItem from="1606481521375" duration="1435000" />
       <workItem from="1606492738781" duration="2059000" />
-      <workItem from="1606532207952" duration="5543000" />
+      <workItem from="1606532207952" duration="6276000" />
+      <workItem from="1606549601466" duration="840000" />
+      <workItem from="1606561919314" duration="787000" />
+      <workItem from="1606579821343" duration="1155000" />
+      <workItem from="1606621367398" duration="84000" />
+      <workItem from="1606645845974" duration="619000" />
     </task>
     <servers />
   </component>
@@ -80,6 +82,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="447" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1606451524379" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1606621450102">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1606621450102" />
     <state x="277" y="62" key="SettingsEditor" timestamp="1606481927698">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
